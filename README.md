@@ -1,2 +1,2 @@
 # SceneManagerWrapper
-シーンをenumで管理するためのラッパー + α
+シーンをenumで管理するためのラッパー + α　－ β
